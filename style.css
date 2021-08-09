@@ -1,10 +1,16 @@
-p{
-    font-size: 20px;
-}
 body{
     background: #CCCCCC;
 }
-
+h1{
+    text-align: center;
+}
 strong em{
     color: #FFCC55;
+}
+p{
+    font-size: 20px;
+}
+#comp-menu{
+    color: blueviolet;
+    font-size: 30px;
 }
