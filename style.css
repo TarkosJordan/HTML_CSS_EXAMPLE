@@ -1,3 +1,9 @@
+#inovalogo{
+    height: 40px;
+    width: 150px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
 body{
     background: #CCCCCC;
 }
