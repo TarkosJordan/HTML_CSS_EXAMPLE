@@ -1,3 +1,10 @@
 p{
     font-size: 20px;
 }
+body{
+    background: #CCCCCC;
+}
+
+strong em{
+    color: #FFCC55;
+}
