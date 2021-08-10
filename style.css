@@ -1,18 +1,25 @@
 #inovalogo{
-    height: 40px;
-    width: 150px;
+    height: 30px;
+    width: 120px;
     padding-top: 10px;
     padding-left: 10px;
 }
-body{
-    background: #CCCCCC;
+.cabecalho{
+    background: #555454;
 }
-h1{
+.titulo-principal{ 
+    display: inline-block;
+    font-family: 'Lucida Sans';
+    color:  #9c1515;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.titulo-centralizado{
     text-align: center;
     margin: 50px;
 }
 strong em{
-    color: #FFCC55;
+    color: #bb2727;
 }
 p{
     font-size: 20px;
@@ -25,4 +32,12 @@ p{
     font-size: 30px;
     color: #FFFFFF;
     font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+}
+.pikcachu{
+    width: 50%;
 }
