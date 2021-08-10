@@ -9,6 +9,7 @@ body{
 }
 h1{
     text-align: center;
+    margin: 50px;
 }
 strong em{
     color: #FFCC55;
@@ -19,4 +20,9 @@ p{
 #comp-menu{
     color: blueviolet;
     font-size: 30px;
+}
+.itens{
+    font-size: 30px;
+    color: #FFFFFF;
+    font-style: italic;
 }
