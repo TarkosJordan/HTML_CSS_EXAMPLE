@@ -1,20 +1,30 @@
 header{
     background: #bbbbbb;
+    padding: 20px;
+}
+.caixa{
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
 }
 .inovalogo{
     height: 30px;
     width: 120px;
-    padding-top: 10px;
-    padding-left: 10px;
+}
+nav{
+    position: absolute;
+    top: 12px;
+    right: 22px;
 }
 nav li{
     display: inline;
     text-transform: uppercase;
-    font-family: 'Lucida Sans';
+    padding-left: 15px;
+    font-family: 'Lucida Sans Regular';
 }
 nav a{
     color: #000000;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 15px;
     text-decoration: none;
 }
