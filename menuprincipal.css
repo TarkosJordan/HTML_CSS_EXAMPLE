@@ -1,0 +1,20 @@
+header{
+    background: #bbbbbb;
+}
+.inovalogo{
+    height: 30px;
+    width: 120px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+nav li{
+    display: inline;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans';
+}
+nav a{
+    color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
