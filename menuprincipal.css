@@ -28,3 +28,24 @@ nav a{
     font-size: 15px;
     text-decoration: none;
 }
+.lista-comp li{
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    background: #CCCCCC;
+}
+.text-tipo-comp{
+    font-family: 'Lucida Sans Regular';
+    padding-bottom: 12px;
+}
+.text-titulo-inicial{
+    font-size: 32px;
+    text-align: center;
+    margin: 2%;
+    font-family: 'Lucida Sans Regular';
+}
