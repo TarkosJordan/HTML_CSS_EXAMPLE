@@ -28,16 +28,33 @@ nav a{
     font-size: 15px;
     text-decoration: none;
 }
+nav a:hover{
+    color: #ff0000;
+    text-decoration: underline;
+}
+nav a:active{
+    color:#380202;
+    text-decoration: none;
+}
+.lista-comp{
+    margin-left: 18%;    
+}
 .lista-comp li{
     display: inline-block;
     text-align: center;
     font-size: 25px;
-    width: 30%;
     vertical-align: top;
     margin: 0 1.5%;
     padding: 20px 30px;
     box-sizing: border-box;
-    background: #CCCCCC;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 15px;
+}
+.lista-comp li:hover{
+    border-color: #ff0000;
+    color: #ff0000;
 }
 .text-tipo-comp{
     font-family: 'Lucida Sans Regular';
