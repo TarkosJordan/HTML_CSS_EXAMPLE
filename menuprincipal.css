@@ -56,6 +56,9 @@ nav a:active{
     border-color: #ff0000;
     color: #ff0000;
 }
+.lista-comp li:hover .text-tipo-comp{
+    font-size: 29px;
+}
 .text-tipo-comp{
     font-family: 'Lucida Sans Regular';
     padding-bottom: 12px;
@@ -65,4 +68,12 @@ nav a:active{
     text-align: center;
     margin: 2%;
     font-family: 'Lucida Sans Regular';
+}
+footer{
+    background: url("imagens/fundo-tecnologico.png");
+    margin-top: 60px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
