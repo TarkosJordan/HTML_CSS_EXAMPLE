@@ -1,0 +1,43 @@
+#inovalogo{
+    height: 30px;
+    width: 120px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.cabecalho{
+    background: #555454;
+}
+.titulo-principal{ 
+    display: inline-block;
+    font-family: 'Lucida Sans';
+    color:  #9c1515;
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.titulo-centralizado{
+    text-align: center;
+    margin: 50px;
+}
+strong em{
+    color: #bb2727;
+}
+p{
+    font-size: 20px;
+}
+#comp-menu{
+    color: blueviolet;
+    font-size: 30px;
+}
+.itens{
+    font-size: 30px;
+    color: #000000;
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+}
+.pikcachu{
+    width: 50%;
+}
